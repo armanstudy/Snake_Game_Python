@@ -13,7 +13,7 @@ The primary motivation behind creating this project is to help **beginners** und
 - **Apply OOP principles** like encapsulation, inheritance, and modular design.
 
 This project is a great exercise for anyone looking to strengthen their Python programming skills while building something fun and interactive!
-
+![Snake Game Screenshot](1.png)
 ---
 
 ## 🎮 Features
